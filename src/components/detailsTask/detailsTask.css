@@ -1,0 +1,14 @@
+.task .task-info{
+    background: #454445;
+    padding: 2% 3%;
+    border-radius: 0.5rem;
+    margin-top: 7%;
+}
+.task .task-info .task-info--title h3{
+    font-size: 1.7rem;
+    color: #98de58;
+    margin: 1% 0;
+}
+.task .task-info .task-info--text p{
+    color: #fff;
+}

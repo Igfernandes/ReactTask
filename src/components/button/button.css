@@ -1,0 +1,17 @@
+.task .task-btn{
+    flex: 1;
+    text-align: end;
+    margin-left: 2%;
+}
+
+.task-btn button{
+    width: 100%;
+    max-width: 10rem;
+    color: #fff;
+    font-size: 1.1rem;
+    background-color: #7fb949;
+    padding: 11px;
+    border-radius: 4px;
+    box-shadow: 0 0 2px black;
+    cursor: pointer;
+}

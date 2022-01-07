@@ -1,0 +1,13 @@
+.task .task-head{
+    display: flex;
+    flex: 2;
+}
+.task .task-head input{
+    width: 100%;
+    font-size: 1.1rem;
+    background-color: #444345;
+    color: rgb(236, 236, 236);
+    flex: 2;
+    padding-left: 6px;
+    border: none;
+}

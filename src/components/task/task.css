@@ -1,0 +1,28 @@
+.task--item{
+    display: flex;
+    align-items: center;
+    background-color: #444345;
+    margin: 2% 0 ;
+    cursor: pointer;
+}
+.task--item .task-text{
+    flex: 6;
+    padding: 4% 2%;
+}
+.task--item .task-text span{ 
+    color: rgb(238, 238, 238);
+}
+.task--item .task-icons{
+    display: flex;
+    flex: 1;
+}
+.task--item .task-icons a {
+    display: block;
+    width: 50%;
+    padding: 5%;
+}
+.task--item .task-icons a svg{
+    width: 20px;
+    height: 20px;
+    color: #7fb949;
+}

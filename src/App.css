@@ -1,0 +1,9 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+  min-height: 100vh;
+  background-color: #222022;
+  display: flex;
+  align-items: flex-start;
+}
